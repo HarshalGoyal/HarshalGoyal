@@ -58,6 +58,17 @@ Here are some ideas to get you started:
   [![Tensorflow](https://img.shields.io/badge/-Tensorflow-366CE5?style=flat-square&logo=Tensorflow&logoColor=ffffff)](https://tensorflow.org/)
   
   
-  ![Harshal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HarshalGoyal&bg_color=00000000&theme=cobalt)
+![Harshal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HarshalGoyal&bg_color=00000000&theme=cobalt)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=HarshalGoyal&theme=onedark)
+
+
+ My portfolio page .  [View it here](https://harshalgoyal.github.io/Mywebsite/)
+ 
+ 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragB254&repo=Iamge-Plagiarism-Recognizer&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragB254&repo=COVID-19-Detection-using-X-ray&theme=material-palenight)
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshalGoyal&theme=dark"/>
+</a>
