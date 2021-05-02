@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 #### I am Harshal Goyal.A Machine Learning and Deep Learing enthusiast and a python developer. 
 
 
-[![Instagram Link](https://img.shields.io/badge/Instagram/goyalharshal916%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/goyalharshal916/)
+[![Instagram Link](https://img.shields.io/badge/Instagram/Harshal%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/goyalharshal916/)
 [![Twitter Link](https://img.shields.io/badge/Twitter/Harshal%20-%23E4405F.svg?&style=flat&logo=Twitter&logoColor=white)](https://twitter.com/HarshalGoyal7)
 [![Twitter Link](https://img.shields.io/badge/LinkedIn/Harshal%20-%23E4405F.svg?&style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harshal-goyal-184813194/)
 
