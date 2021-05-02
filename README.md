@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  My portfolio page .  [View it here](https://harshalgoyal.github.io/Mywebsite/)
  
  
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshalGoyal&repo=Iamge-Plagiarism-Recognizer&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshalGoyal&repo=Image-Plagiarism-Recognizer&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshalGoyal&repo=COVID-19-Detection-using-X-ray&theme=material-palenight)
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
