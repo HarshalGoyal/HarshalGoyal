@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 [![Twitter Link](https://img.shields.io/badge/LinkedIn/Harshal%20-%23E4405F.svg?&style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harshal-goyal-184813194/)
 
 - 🌱 I’m currently learning about the Natural Language Processing.
+![Harshal's github stats](https://github-readme-stats.vercel.app/api?username=HarshalGoyal&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)
