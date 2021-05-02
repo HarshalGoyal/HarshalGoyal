@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 ![windows](https://img.shields.io/badge/-blue?style=flat-square&logo=windows)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![Discord](https://img.shields.io/badge/-Discord-E01863?style=flat-square&logo=Discord&logoColor=white)
-![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-366CE5?style=flat-square&logo=Tensorflow&logoColor=ffffff)](https://tensorflow.org/)
+[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-366CE5?style=flat-square&logo=Tensorflow&logoColor=ffffff)](https://tensorflow.org/)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=HarshalGoyal&theme=onedark)
